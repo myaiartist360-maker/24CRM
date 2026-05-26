@@ -772,6 +772,11 @@ msgstr "Action"
 msgid "Action on click"
 msgstr "Action on click"
 
+#. js-lingui-id: xsi6kC
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "actions"
+msgstr "actions"
+
 #. js-lingui-id: 7L01XJ
 #: src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx
 #: src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsTab.tsx
@@ -782,6 +787,11 @@ msgstr "Action on click"
 #: src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevelTableHeader.tsx
 msgid "Actions"
 msgstr "Actions"
+
+#. js-lingui-id: VjJ8in
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Actions per user per hour"
+msgstr "Actions per user per hour"
 
 #. js-lingui-id: mQKK3r
 #: src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx
@@ -838,10 +848,25 @@ msgstr "Active API keys created by you or your team."
 msgid "Active installs"
 msgstr "Active installs"
 
+#. js-lingui-id: mmunGk
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Active Providers"
+msgstr "Active Providers"
+
 #. js-lingui-id: QHjErc
 #: src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx
 msgid "Active Sync"
 msgstr "Active Sync"
+
+#. js-lingui-id: pmFXmh
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Active. Routing to 7 models via OpenRouter gateway."
+msgstr "Active. Routing to 7 models via OpenRouter gateway."
+
+#. js-lingui-id: LNgVBn
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Active. Set OLLAMA_BASE_URL in .env to change endpoint."
+msgstr "Active. Set OLLAMA_BASE_URL in .env to change endpoint."
 
 #. js-lingui-id: m16xKo
 #: src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx
@@ -1327,6 +1352,11 @@ msgstr "agent"
 msgid "Agent"
 msgstr "Agent"
 
+#. js-lingui-id: FguFYr
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Agent Capability Matrix"
+msgstr "Agent Capability Matrix"
+
 #. js-lingui-id: 6SbwJa
 #: src/modules/ai/components/RoutingDebugDisplay.tsx
 msgid "Agent execution"
@@ -1337,10 +1367,25 @@ msgstr "Agent execution"
 msgid "Agent interactions will appear here once the agent is used in conversations"
 msgstr "Agent interactions will appear here once the agent is used in conversations"
 
+#. js-lingui-id: NCbH0I
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Agent must ask twice before bulk deletion"
+msgstr "Agent must ask twice before bulk deletion"
+
+#. js-lingui-id: nD9frW
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Agent must show draft and await approval"
+msgstr "Agent must show draft and await approval"
+
 #. js-lingui-id: mDXkHu
 #: src/pages/settings/ai/SettingsAgentForm.tsx
 msgid "Agent not found"
 msgstr "Agent not found"
+
+#. js-lingui-id: cjtjrz
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Agent permissions saved"
+msgstr "Agent permissions saved"
 
 #. js-lingui-id: 77hGcG
 #: src/modules/settings/roles/components/SettingsRolesList.tsx
@@ -1422,6 +1467,11 @@ msgstr "AI consumption across all workspaces."
 #: src/pages/settings/ai/components/SettingsAIUsageTab.tsx
 msgid "AI consumption over time."
 msgstr "AI consumption over time."
+
+#. js-lingui-id: S6saKz
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "AI Memory & Graph"
+msgstr "AI Memory & Graph"
 
 #. js-lingui-id: kNfr85
 #: src/pages/settings/ai/forms/components/SettingsAIAgentForm.tsx
@@ -1731,6 +1781,11 @@ msgstr "alphabetical"
 #: src/modules/navigation-menu-item/edit/side-panel/components/SidePanelObjectMenuItem.tsx
 msgid "Already in navbar"
 msgstr "Already in navbar"
+
+#. js-lingui-id: 8cBfUV
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Always blocked for AI agents"
+msgstr "Always blocked for AI agents"
 
 #. js-lingui-id: uprOiC
 #: src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx
@@ -2640,6 +2695,11 @@ msgstr "Boolean"
 msgid "Both"
 msgstr "Both"
 
+#. js-lingui-id: MSWqBO
+#: src/pages/settings/ai/SettingsAI.tsx
+msgid "Brain"
+msgstr "Brain"
+
 #. js-lingui-id: 1hGdwj
 #: src/pages/settings/ai/SettingsAIUsageUserDetail.tsx
 #: src/pages/settings/ai/components/SettingsAIUsageTab.tsx
@@ -2680,6 +2740,16 @@ msgstr "Built-in models from this provider. Toggle to enable or disable."
 #: src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx
 msgid "Built-in providers activated by API key. Click to manage models."
 msgstr "Built-in providers activated by API key. Click to manage models."
+
+#. js-lingui-id: r1LXoG
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Bulk"
+msgstr "Bulk"
+
+#. js-lingui-id: zjHQLh
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Bulk delete records"
+msgstr "Bulk delete records"
 
 #. js-lingui-id: 1QEPf7
 #: src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx
@@ -3448,6 +3518,11 @@ msgstr "Configure CalDAV settings to sync your calendar events."
 msgid "Configure date, time, number, timezone, and calendar start day"
 msgstr "Configure date, time, number, timezone, and calendar start day"
 
+#. js-lingui-id: n41gsL
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Configure environment variables to enable local models or OpenRouter"
+msgstr "Configure environment variables to enable local models or OpenRouter"
+
 #. js-lingui-id: utsXG8
 #: src/pages/settings/security/SettingsSecurity.tsx
 msgid "Configure fallback login methods for users with SSO bypass permissions"
@@ -3695,6 +3770,11 @@ msgstr "Continue with Microsoft"
 msgid "Continue without sync"
 msgstr "Continue without sync"
 
+#. js-lingui-id: w7wq6A
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Control what the AI agent can read, write, delete, and bulk-operate on per entity type"
+msgstr "Control what the AI agent can read, write, delete, and bulk-operate on per entity type"
+
 #. js-lingui-id: +iFqZW
 #: src/modules/settings/roles/role-settings/components/SettingsRoleApplicability.tsx
 msgid "Control which types of entities this role can be assigned to"
@@ -3704,6 +3784,11 @@ msgstr "Control which types of entities this role can be assigned to"
 #: src/modules/ai/components/internal/AIChatContextUsageButton.tsx
 msgid "Conversation"
 msgstr "Conversation"
+
+#. js-lingui-id: Gz1MQY
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Conversation history and agent actions are stored per thread."
+msgstr "Conversation history and agent actions are stored per thread."
 
 #. js-lingui-id: HRGl1X
 #: src/pages/onboarding/CreateProfile.tsx
@@ -4344,6 +4429,11 @@ msgstr "Daily Usage"
 msgid "Danger zone"
 msgstr "Danger zone"
 
+#. js-lingui-id: Vj1D2Z
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Dangerous Actions"
+msgstr "Dangerous Actions"
+
 #. js-lingui-id: Fo2vDn
 #: src/pages/settings/profile/appearance/components/LocalePicker.tsx
 msgid "Danish"
@@ -4607,6 +4697,7 @@ msgid "Default model for lightweight tasks"
 msgstr "Default model for lightweight tasks"
 
 #. js-lingui-id: Zrez13
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
 #: src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx
 msgid "Default Models"
 msgstr "Default Models"
@@ -4698,6 +4789,7 @@ msgstr "delete"
 #: src/pages/settings/ai/components/SettingsSkillInactiveMenuDropDown.tsx
 #: src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx
 #: src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
 #: src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx
 #: src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterOptionsDropdown.tsx
 #: src/modules/workflow/workflow-steps/components/WorkflowStepFooter.tsx
@@ -5966,6 +6058,16 @@ msgstr "Enterprise License"
 msgid "Enterprise license activated successfully"
 msgstr "Enterprise license activated successfully"
 
+#. js-lingui-id: E/8A4V
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Entity"
+msgstr "Entity"
+
+#. js-lingui-id: nkMpp5
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Entity graph enabled. CRM records sync automatically to the graph on write."
+msgstr "Entity graph enabled. CRM records sync automatically to the graph on write."
+
 #. js-lingui-id: SLuq/l
 #: src/modules/settings/security/components/SSO/SettingsSSOSAMLForm.tsx
 msgid "Entity ID"
@@ -5995,6 +6097,11 @@ msgstr "Environment Variables"
 #: src/modules/settings/logic-functions/components/SettingsLogicFunctionTabEnvironmentVariablesSection.tsx
 msgid "Environment variables are defined at application level for all functions. Please check <0/>."
 msgstr "Environment variables are defined at application level for all functions. Please check <0/>."
+
+#. js-lingui-id: kG7vSk
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Episodic Memory"
+msgstr "Episodic Memory"
 
 #. js-lingui-id: BlLvRP
 #: src/pages/settings/security/SettingsSecurity.tsx
@@ -6586,6 +6693,11 @@ msgstr "Failed to retry jobs. Please try again later."
 msgid "Failed to save layout customization"
 msgstr "Failed to save layout customization"
 
+#. js-lingui-id: kM4mxs
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Failed to save permissions"
+msgstr "Failed to save permissions"
+
 #. js-lingui-id: y3HIOa
 #: src/pages/settings/ai/SettingsAgentForm.tsx
 #: src/pages/settings/ai/SettingsAgentForm.tsx
@@ -6711,6 +6823,7 @@ msgstr "False"
 
 #. js-lingui-id: XVIZ7v
 #: src/pages/settings/ai/components/SettingsAIModelsTab.tsx
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
 #: src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx
 msgid "Fast Model"
 msgstr "Fast Model"
@@ -7204,6 +7317,11 @@ msgstr "Get the most out of your workspace by inviting your team."
 msgid "Get your subscription"
 msgstr "Get your subscription"
 
+#. js-lingui-id: 1uq9VI
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Global Rate Limit"
+msgstr "Global Rate Limit"
+
 #. js-lingui-id: sr0UJD
 #: src/pages/settings/security/event-logs/SettingsEventLogs.tsx
 msgid "Go Back"
@@ -7258,6 +7376,11 @@ msgstr "Granted for this object"
 #: src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx
 msgid "Grants permission to perform all available actions without restriction"
 msgstr "Grants permission to perform all available actions without restriction"
+
+#. js-lingui-id: BWiQcy
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Graph DB"
+msgstr "Graph DB"
 
 #. js-lingui-id: gBiL6J
 #: src/modules/settings/playground/components/PlaygroundSetupForm.tsx
@@ -7766,6 +7889,16 @@ msgstr "Inactive Object Options"
 #: src/pages/settings/ai/components/SettingsSkillInactiveMenuDropDown.tsx
 msgid "Inactive Skill Options"
 msgstr "Inactive Skill Options"
+
+#. js-lingui-id: me/qvl
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Inactive. Set OLLAMA_BASE_URL=http://localhost:11434/v1 in .env to enable."
+msgstr "Inactive. Set OLLAMA_BASE_URL=http://localhost:11434/v1 in .env to enable."
+
+#. js-lingui-id: 4HXiZ1
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Inactive. Set OPENROUTER_API_KEY in .env to enable."
+msgstr "Inactive. Set OPENROUTER_API_KEY in .env to enable."
 
 #. js-lingui-id: Gp4Yi6
 #: src/modules/activities/emails/components/EmailsCard.tsx
@@ -8288,6 +8421,11 @@ msgstr "Key/Value"
 msgid "Keyboard shortcuts"
 msgstr "Keyboard shortcuts"
 
+#. js-lingui-id: yWH3P0
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Knowledge Base"
+msgstr "Knowledge Base"
+
 #. js-lingui-id: h6S9Yz
 #: src/pages/settings/profile/appearance/components/LocalePicker.tsx
 msgid "Korean"
@@ -8751,6 +8889,11 @@ msgstr "Loading thread"
 msgid "Loading..."
 msgstr "Loading..."
 
+#. js-lingui-id: Pwqkdw
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Loading…"
+msgstr "Loading…"
+
 #. js-lingui-id: 8NbHF7
 #: src/pages/settings/ai/SettingsAIPrompts.tsx
 msgid "Locale"
@@ -8995,6 +9138,11 @@ msgstr "Maximum files"
 msgid "Maximum phone numbers"
 msgstr "Maximum phone numbers"
 
+#. js-lingui-id: fRD9+K
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Maximum total agent actions per user per hour, across all entity types"
+msgstr "Maximum total agent actions per user per hour, across all entity types"
+
 #. js-lingui-id: aiuTYK
 #: src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx
 msgid "Maximum URLs"
@@ -9014,6 +9162,11 @@ msgstr "MCP Configuration copied to clipboard"
 #: src/pages/settings/ai/components/SettingsAIMCP.tsx
 msgid "MCP Server"
 msgstr "MCP Server"
+
+#. js-lingui-id: vfVbWd
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "MD workflow and rules files are indexed and available to the agent."
+msgstr "MD workflow and rules files are indexed and available to the agent."
 
 #. js-lingui-id: upbzgm
 #: src/modules/views/hooks/useComputeRecordRelationFilterLabelValue.tsx
@@ -9220,6 +9373,11 @@ msgstr "Model ID is required"
 msgid "Models"
 msgstr "Models"
 
+#. js-lingui-id: PrNz+U
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "models active"
+msgstr "models active"
+
 #. js-lingui-id: oHM560
 #: src/pages/settings/ai/components/SettingsAIModelsTab.tsx
 msgid "Models available in the chat model picker"
@@ -9229,6 +9387,16 @@ msgstr "Models available in the chat model picker"
 #: src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx
 msgid "Models for this provider. Toggle to enable or disable."
 msgstr "Models for this provider. Toggle to enable or disable."
+
+#. js-lingui-id: gFhaFS
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Models used by the AI assistant for this workspace"
+msgstr "Models used by the AI assistant for this workspace"
+
+#. js-lingui-id: 8M4EOr
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Modify workspace settings"
+msgstr "Modify workspace settings"
 
 #. js-lingui-id: hty0d5
 #: src/pages/settings/profile/appearance/components/DateTimeSettingsCalendarStartDaySelect.tsx
@@ -10358,6 +10526,8 @@ msgstr "Not Found"
 
 #. js-lingui-id: MTqQMG
 #: src/pages/settings/applications/tabs/SettingsApplicationRegistrationConfigTab.tsx
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
 msgid "Not set"
 msgstr "Not set"
 
@@ -11124,6 +11294,7 @@ msgstr "permission flag"
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
 #: src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx
 #: src/pages/settings/applications/SettingsApplicationDetails.tsx
+#: src/pages/settings/ai/SettingsAI.tsx
 #: src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowEditActionAiAgent.tsx
 #: src/modules/settings/roles/role/components/SettingsRole.tsx
 msgid "Permissions"
@@ -11513,6 +11684,11 @@ msgstr "Provider \"{0}\" removed"
 msgid "Providers"
 msgstr "Providers"
 
+#. js-lingui-id: lKtHgk
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Providers are active when their API key or base URL is configured"
+msgstr "Providers are active when their API key or base URL is configured"
+
 #. js-lingui-id: AULPv1
 #: src/pages/settings/domains/SettingsDomains.tsx
 msgid "Provision a complete and secure hosting environment on these domains."
@@ -11606,6 +11782,11 @@ msgstr "Queue: {queueName}"
 msgid "Ran {formattedName}"
 msgstr "Ran {formattedName}"
 
+#. js-lingui-id: /NVLZu
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Rate/hr"
+msgstr "Rate/hr"
+
 #. js-lingui-id: z1U/Fh
 #: src/modules/ui/field/input/components/RatingInput.tsx
 msgid "Rating"
@@ -11623,6 +11804,11 @@ msgstr "Ratio"
 #: src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/BodyInput.tsx
 msgid "Raw JSON"
 msgstr "Raw JSON"
+
+#. js-lingui-id: cQlPDN
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Read"
+msgstr "Read"
 
 #. js-lingui-id: 549d7o
 #: src/pages/settings/updates/SettingsUpdates.tsx
@@ -12067,6 +12253,11 @@ msgstr "Request Failed"
 msgid "Required"
 msgstr "Required"
 
+#. js-lingui-id: CL5t/3
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Requires pgvector extension + embedding generation. Keyword search active as fallback."
+msgstr "Requires pgvector extension + embedding generation. Keyword search active as fallback."
+
 #. js-lingui-id: G42SNI
 #: src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx
 #: src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx
@@ -12402,6 +12593,11 @@ msgstr "Save"
 #: src/modules/views/components/UpdateViewButtonGroup.tsx
 msgid "Save as new view"
 msgstr "Save as new view"
+
+#. js-lingui-id: stHY8i
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Save now"
+msgstr "Save now"
 
 #. js-lingui-id: gmB6oO
 #: src/modules/workflow/workflow-trigger/components/CronExpressionHelper.tsx
@@ -13016,6 +13212,16 @@ msgstr "Select which models appear as recommended in the workspace model picker"
 msgid "Select your preferred language"
 msgstr "Select your preferred language"
 
+#. js-lingui-id: h3pr6b
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Self-Hosted & Gateway Providers"
+msgstr "Self-Hosted & Gateway Providers"
+
+#. js-lingui-id: hzoXHB
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Semantic Search (pgvector)"
+msgstr "Semantic Search (pgvector)"
+
 #. js-lingui-id: JlFcis
 #: src/modules/side-panel/pages/compose-email/components/SidePanelComposeEmailPage.tsx
 #: src/modules/page-layout/widgets/email-thread/components/EmailThreadComposer.tsx
@@ -13038,6 +13244,11 @@ msgstr "Send Email"
 #: src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts
 msgid "Send emails via connected accounts"
 msgstr "Send emails via connected accounts"
+
+#. js-lingui-id: dSF/Cq
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Send external emails"
+msgstr "Send external emails"
 
 #. js-lingui-id: asU5VT
 #: src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/HttpRequestExecutionResult.tsx
@@ -13431,6 +13642,7 @@ msgstr "Small section heading"
 
 #. js-lingui-id: 5J8ZFl
 #: src/pages/settings/ai/components/SettingsAIModelsTab.tsx
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
 #: src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx
 msgid "Smart Model"
 msgstr "Smart Model"
@@ -13670,6 +13882,11 @@ msgstr "State"
 #: src/modules/settings/accounts/components/SettingsConnectedAccountsTableHeader.tsx
 msgid "Status"
 msgstr "Status"
+
+#. js-lingui-id: vKQAGQ
+#: src/pages/settings/ai/components/SettingsAIBrainTab.tsx
+msgid "Status of the CRM intelligence layers"
+msgstr "Status of the CRM intelligence layers"
 
 #. js-lingui-id: lATgy+
 #: src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterGroupOptionsDropdown.tsx
@@ -14279,6 +14496,11 @@ msgstr "There was an error while updating password."
 #: src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx
 msgid "These apps are not vetted. Use at your own risk."
 msgstr "These apps are not vetted. Use at your own risk."
+
+#. js-lingui-id: gZWam9
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "These require double-confirmation regardless of above settings"
+msgstr "These require double-confirmation regardless of above settings"
 
 #. js-lingui-id: AUV+TY
 #: src/modules/ai/components/ThinkingStepsDisplay.tsx
@@ -15133,6 +15355,11 @@ msgstr "unordered"
 #: src/modules/advanced-text-editor/extensions/slash-command/DefaultSlashCommands.ts
 msgid "Unordered list with bullets"
 msgstr "Unordered list with bullets"
+
+#. js-lingui-id: 7D0q6M
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Unsaved changes."
+msgstr "Unsaved changes."
 
 #. js-lingui-id: wja8aL
 #: src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx
@@ -16231,6 +16458,11 @@ msgstr "Would you like to remove {recordIndexRecordGroupSort} group sorting?"
 #: src/modules/settings/data-model/fields/forms/components/text/SettingsDataModelFieldTextForm.tsx
 msgid "Wrap on record pages"
 msgstr "Wrap on record pages"
+
+#. js-lingui-id: i4/LY/
+#: src/pages/settings/ai/components/SettingsAIPermissionsTab.tsx
+msgid "Write"
+msgstr "Write"
 
 #. js-lingui-id: Q9pNST
 #: src/pages/settings/ai/SettingsToolDetail.tsx
